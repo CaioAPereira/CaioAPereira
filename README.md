@@ -7,7 +7,7 @@
 
 <!-- HOURLY_STATUS_START -->
 <p align="center">
-  <sub>☀️ Good morning (BRT) • Coffee &amp; systems check in progress</sub>
+  <sub>☀️ <b>11:03 BRT</b> • Morning coffee &amp;amp; systems check in progress</sub>
 </p>
 <!-- HOURLY_STATUS_END -->
 
@@ -43,7 +43,7 @@
 
 <!-- YEAR_2026_STATS_START -->
 <p align="center">
-  <sub>📅 <b>2026 Year in Review</b> • Active development across infrastructure, containers &amp; web projects</sub>
+  <sub>📅 <b>2026 Activity</b> • <b>7</b> active own repos in 2026 • Latest touched: <code>CaioAPereira</code></sub>
 </p>
 <!-- YEAR_2026_STATS_END -->
 
