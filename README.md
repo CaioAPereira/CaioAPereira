@@ -1,19 +1,18 @@
-<!-- Top Animated Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1200&color=58A6FF&background=0D1117&center=true&vCenter=true&width=920&height=90&lines=Caio+A.+Pereira;Systems+Analyst+%7C+Infrastructure+%26+Software+Dev" alt="Caio A. Pereira Banner" />
-</div>
-
-<!-- Animated Typing Subtitle -->
+<!-- Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=920&height=55&lines=Hi!+I'm+Caio+A.+Pereira+%F0%9F%91%8B;Systems+Analyst+%26+IT+Enthusiast;Virtualization%2C+Containers+%26+Web+Development;Solving+problems+to+achieve+knowledge+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=58A6FF&background=0D1117&center=true&vCenter=true&width=900&height=65&lines=Caio+A.+Pereira+%F0%9F%91%8B;Systems+Analyst+%7C+Infrastructure+%26+Dev;Virtualization%2C+Containers+%26+Web+Apps;Solving+problems+to+achieve+knowledge+%F0%9F%9A%80" alt="Caio A. Pereira" />
   </a>
 </div>
 
-<br/>
+<!-- HOURLY_STATUS_START -->
+<p align="center">
+  <sub>☀️ Good morning (BRT) • Coffee &amp; systems check in progress</sub>
+</p>
+<!-- HOURLY_STATUS_END -->
 
-<!-- Social Badges -->
-<div align="center">
+<!-- Social Links -->
+<p align="center">
   <a href="https://www.linkedin.com/in/pereira-caioabreu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -28,47 +27,50 @@
     <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   -->
-</div>
-
----
-
-### 🛠️ Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,docker,linux,git,github,mysql,bash,html,css,js&theme=dark" />
-</div>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaioAPereira&show_icons=true&theme=github_dark&hide_border=true" />
-  
-  <!-- Top Languages Card -->
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAPereira&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
-</div>
+</p>
 
 <br/>
 
-<div align="center">
-  <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=CaioAPereira&theme=github-dark-blue&hide_border=true" />
-</div>
+## 🛠️ Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,docker,linux,git,github,mysql,bash,html,css,js&perline=6&theme=dark" alt="Tech Stack" />
+</p>
+
+<br/>
+
+## 📈 2026 Activity & Metrics
+
+<!-- YEAR_2026_STATS_START -->
+<p align="center">
+  <sub>📅 <b>2026 Year in Review</b> • Active development across infrastructure, containers &amp; web projects</sub>
+</p>
+<!-- YEAR_2026_STATS_END -->
+
+<br/>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioAPereira&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAPereira&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CaioAPereira&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
+</p>
 
 <br/>
 
 <!-- Animated Contribution Snake -->
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaioAPereira/CaioAPereira/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaioAPereira/CaioAPereira/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/CaioAPereira/CaioAPereira/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
+</p>
 
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=1200&color=8B949E&background=0D1117&center=true&vCenter=true&width=800&height=50&lines=Built+with+curiosity%2C+containers+%26+coffee+%E2%98%95" alt="Footer" />
-</div>
+---
+
+<p align="center">
+  <sub>Built with curiosity, containers &amp; coffee ☕</sub>
+</p>
