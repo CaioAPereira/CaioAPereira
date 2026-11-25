@@ -23,6 +23,8 @@ jobs:
 
       - name: Update hourly status in README.md
         run: python scripts/update_hourly_status.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if README changed
         run: |

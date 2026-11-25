@@ -7,7 +7,7 @@
 
 <!-- HOURLY_STATUS_START -->
 <p align="center">
-  <sub>☀️ <b>11:03 BRT</b> • Morning coffee &amp;amp; systems check in progress</sub>
+  <sub>☀️ <b>11h BRT</b> • Morning coffee &amp; systems check in progress</sub>
 </p>
 <!-- HOURLY_STATUS_END -->
 
@@ -39,18 +39,18 @@
 
 <br/>
 
-## 📈 2026 Activity & Metrics
+## 📈 Activity & Metrics
 
-<!-- YEAR_2026_STATS_START -->
+<!-- YEAR_STATS_START -->
 <p align="center">
   <sub>📅 <b>2026 Activity</b> • <b>7</b> active own repos in 2026 • Latest touched: <code>CaioAPereira</code></sub>
 </p>
-<!-- YEAR_2026_STATS_END -->
+<!-- YEAR_STATS_END -->
 
 <br/>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioAPereira&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioAPereira&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAPereira&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
