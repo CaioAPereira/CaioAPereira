@@ -43,7 +43,7 @@
 
 <!-- YEAR_STATS_START -->
 <p align="center">
-  <sub>📅 <b>2026 Activity</b> • <b>7</b> active own repos in 2026 • Latest touched: <code>CaioAPereira</code></sub>
+  <sub>📅 <b>2026 Activity</b> • <b>664</b> contributions • <b>7</b> active own repos • Latest touched: <code>CaioAPereira</code></sub>
 </p>
 <!-- YEAR_STATS_END -->
 
