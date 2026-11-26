@@ -7,7 +7,7 @@
 
 <!-- HOURLY_STATUS_START -->
 <p align="center">
-  <sub>☀️ <b>08h BRT</b> • Morning coffee &amp; systems check in progress</sub>
+  <sub>💻 <b>15h BRT</b> • Afternoon build mode — containers, infrastructure &amp; code</sub>
 </p>
 <!-- HOURLY_STATUS_END -->
 
