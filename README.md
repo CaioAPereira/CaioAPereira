@@ -7,7 +7,7 @@
 
 <!-- HOURLY_STATUS_START -->
 <p align="center">
-  <sub>🌙 <b>20h BRT</b> • Evening lab &amp; problem-solving session</sub>
+  <sub>🦉 <b>04h BRT</b> • Late-night tinkering &amp; async mode</sub>
 </p>
 <!-- HOURLY_STATUS_END -->
 
