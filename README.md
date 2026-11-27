@@ -7,7 +7,7 @@
 
 <!-- HOURLY_STATUS_START -->
 <p align="center">
-  <sub>☀️ <b>08h BRT</b> • Morning coffee &amp; systems check in progress</sub>
+  <sub>🌙 <b>18h BRT</b> • Evening lab &amp; problem-solving session</sub>
 </p>
 <!-- HOURLY_STATUS_END -->
 
@@ -43,7 +43,7 @@
 
 <!-- YEAR_STATS_START -->
 <p align="center">
-  <sub>📅 <b>2026 Activity</b> • <b>664</b> contributions • <b>7</b> active own repos • Latest touched: <code>CaioAPereira</code></sub>
+  <sub>📅 <b>2026 Activity</b> • <b>679</b> contributions • <b>7</b> active own repos • Latest touched: <code>CaioAPereira</code></sub>
 </p>
 <!-- YEAR_STATS_END -->
 
