@@ -7,7 +7,7 @@
 
 <!-- HOURLY_STATUS_START -->
 <p align="center">
-  <sub>🦉 <b>00h BRT</b> • Late-night tinkering &amp; async mode</sub>
+  <sub>☀️ <b>09h BRT</b> • Morning coffee &amp; systems check in progress</sub>
 </p>
 <!-- HOURLY_STATUS_END -->
 
